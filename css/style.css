@@ -341,7 +341,8 @@ body {
   color: #1E2029;
   margin-left: 2px;
 }
-.welcome-form-not span {
+
+.welcome-form-not a {
   color: #9664FF;
 }
 
